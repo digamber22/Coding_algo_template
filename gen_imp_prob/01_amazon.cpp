@@ -1,5 +1,7 @@
 //problem link - https://maang.in/contests/attempts/50684?problem_id=892
 
+// TC -> nlogn + qlogq + n  for sorting , sorting queries and iterating through the prefix sums array
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
