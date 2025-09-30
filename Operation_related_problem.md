@@ -58,6 +58,22 @@ Use the checklist (tick off when solved) and follow the 2‑week schedule below.
 40. [Advanced: subarray convolution / FFT practice and tutorials — CP-Algorithms / FFT (Hard)](https://cp-algorithms.com/algebra/fft.html)
 
 
+## Additional CSES Bitwise Problems (you requested these)
+
+I added the CSES problems you listed below — each link goes to the CSES problem page so you can jump straight to them.
+
+- [Counting Bits — CSES (Task 1146)](https://cses.fi/alon/task/1146)
+- [Maximum Xor Subarray — CSES (Task 1655)](https://cses.fi/problemset/task/1655)
+- [Maximum Xor Subset — CSES (Task 3191)](https://cses.fi/problemset/task/3191)
+- [Number of Subset Xors — CSES (Task 3211)](https://cses.fi/problemset/task/3211)
+- [K Subset Xors — CSES (Task 3192)](https://cses.fi/problemset/task/3192)
+- [All Subarray Xors — CSES (Task 3233)](https://cses.fi/problemset/task/3233)
+- [Xor Pyramid Peak — CSES (Task 2419)](https://cses.fi/alon/task/2419)
+- [Xor Pyramid Diagonal — CSES (Task 3194)](https://cses.fi/problemset/task/3194)
+- [Xor Pyramid Row — CSES (Task 3195)](https://cses.fi/problemset/task/3195)
+- [SOS Bit Problem — CSES (Task 1654)](https://cses.fi/problemset/task/1654)
+- [And Subset Count — CSES (Task 3141)](https://cses.fi/problemset/task/3141)
+
 ## 2‑Week (14‑day) Practice Scheduler — "Kill the Subarray Set" — "Kill the Subarray Set"
 **Pace:** ~3 problems/day with 1 harder problem every 2 days. Adjust if you have more time.
 
