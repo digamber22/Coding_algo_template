@@ -41,3 +41,48 @@ void sieve() {
         }
     }
 }
+
+
+// find all prime factor   --> O(sqrt(n));
+
+ vector<int> findPrimeFactors(int N) {
+    vector<int> ans;
+    int n = N;
+
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            while (n % i == 0) {
+                n /= i;
+            ans.push_back(i);
+            }
+        }
+    }
+
+    // If n > 1, it's a prime factor
+    if (n > 1) ans.push_back(n);
+
+    return ans;
+}
+
+
+//  Unique prime factor --> O(sqrt(n));
+
+ vector<int> findPrimeFactors(int N) {
+    vector<int> ans;
+    int n = N;
+
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            ans.push_back(i);
+            while (n % i == 0) {
+                n /= i;
+            }
+        }
+    }
+
+    // If n > 1, it's a prime factor
+    if (n > 1) ans.push_back(n);
+
+    return ans;
+}
+
